@@ -1,0 +1,19 @@
+p{
+    color:blueviolet;
+}
+
+a{
+    color:brown;
+}
+a{
+    text-decoration:none;
+}
+
+table, th, td {
+    border: 1px solid brown;
+    
+  }
+
+th,td{
+    background-color:aliceblue;
+}
