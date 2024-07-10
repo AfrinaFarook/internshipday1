@@ -17,3 +17,12 @@ table, th, td {
 th,td{
     background-color:aliceblue;
 }
+
+#id1{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.class1{
+    border-radius: 50%;
+}
